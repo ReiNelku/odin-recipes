@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first "The Odin Project" course's project. In this project you have to create a few HTML files about your favourite recipes and link them together. By doing so, you will practice writing HTML code and take your first steps on the journey of Web Dev.
