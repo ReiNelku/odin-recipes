@@ -13,3 +13,8 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
