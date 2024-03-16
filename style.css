@@ -7,3 +7,9 @@ html {
 body {
   background-color: #f8f5f2;
 }
+
+.title {
+  color: #232323;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
