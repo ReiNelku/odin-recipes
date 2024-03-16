@@ -18,3 +18,32 @@ ul {
   list-style-type: none;
   text-align: center;
 }
+
+li {
+  display: inline;
+}
+
+.recipe {
+  background-color: #078080;
+  border: 2px solid #232323;
+  border-radius: 5px;
+  color: #232323;
+  padding: 0;
+  margin: 0 5px;
+}
+
+.recipe:hover {
+  background-color: #f45d48;
+}
+
+.recipe a {
+  display: inline-block;
+  text-decoration: none;
+  color: #232323;
+  padding: 10px 20px;
+  width: 100px;
+}
+
+.recipe a:hover {
+  color: white;
+}
